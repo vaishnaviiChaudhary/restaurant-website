@@ -62,6 +62,8 @@ section nav ul li a:hover::after{
     width: 100%;
 }
 
+/* Added hover color feature */
+
 section nav ul li a:hover{
     color: #fac031;
 }
